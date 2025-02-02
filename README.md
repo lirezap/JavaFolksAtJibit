@@ -3,7 +3,8 @@
 Hello, hope all is well dear friend 😎
 
 Here at Jibit, we are seeking Mid-Level to Senior-Level Java Developers, who are passionate about Java, Financial
-Software Development and Data. If you like, you can read this file carefully and send your CV to [email].
+Software Development and Data. If you like, you can read this file carefully and send your CV
+[to us](https://career.hrcando.ir/co/IvanRayanPayam).
 
 However, before sending your resume, please make sure you can find reasonable answers to the following questions. These
 are some example questions or required background that we expect candidates to be familiar with, before our first online
@@ -99,4 +100,3 @@ class B extends A {
     }
 }
 ```
-
