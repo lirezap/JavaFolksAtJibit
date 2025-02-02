@@ -59,7 +59,7 @@ public class Publication {
 
 - How does exception handling work in Java?
 
-- What are hashcode and equals?
+- What are hashCode and equals methods?
 
 - What is a thread of execution?
 
