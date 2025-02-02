@@ -10,7 +10,7 @@ However, before sending your resume, please make sure you can find reasonable an
 are some example questions or required background that we expect candidates to be familiar with, before our first online
 meeting.
 
-#### Senior-Level Candidate; Example Questions
+#### Senior-Level Candidate; Sample Questions
 
 - What are safety, live-ness and performance issues of using threads?
 
@@ -47,7 +47,7 @@ public class Publication {
 }
 ```
 
-#### Mid-Level Candidate; Example Questions
+#### Mid-Level Candidate; Sample Questions
 
 - What are the differences between compiled and interpreted languages?
 
